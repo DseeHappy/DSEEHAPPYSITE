@@ -1,7 +1,7 @@
 {
-  "name": "constructionsite",
+  "name": "dseehappysite",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -36,7 +36,7 @@
   "devDependencies": {
     "prettier": "^1.19.1"
   },
-  "repository": "https://github.com/gatsbyjs/gatsby-starter-hello-world",
+  "repository": "https://github.com/dseehappy/DSEEHAPPYSITE",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
