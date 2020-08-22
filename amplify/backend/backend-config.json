@@ -1,0 +1,23 @@
+{
+	"api": {
+		"dseehappy": {
+			"service": "AppSync",
+			"providerPlugin": "awscloudformation",
+			"output": {
+				"authConfig": {
+					"defaultAuthentication": {
+						"authenticationType": "OPENID_CONNECT",
+						"openIDConnectConfig": {
+							"name": "okta",
+							"issuerUrl": "https://dev-981334.okta.com/oauth2/default/",
+							"clientId": "0oardj13omEE7JMu74x6",
+							"authTTL": "9999",
+							"iatTTL": "9999"
+						}
+					},
+					"additionalAuthenticationProviders": []
+				}
+			}
+		}
+	}
+}
