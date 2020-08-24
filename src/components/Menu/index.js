@@ -12,7 +12,7 @@ export default () => {
                 src="/resources/favicon.png"
                 alt="DSEEHAPPY Logo"
               />
-              <div className={style.menu__logo__name}>DSEEHAPPY</div>
+              <div className={style.menu__logo__name}>Constructopedia</div>
               <div className={style.menu__logo__descr}> Construction Management On The Cloud</div>
             </div>
           </div>
@@ -27,7 +27,7 @@ export default () => {
             <a href="#Contact_Us" rel="noopener noreferrer">
               Contact Us
             </a>
-            <a href="https://app.dseehappy.com/" rel="noopener noreferrer">
+            <a href="https://auth.constructopedia.cloud/" rel="noopener noreferrer">
               LOGIN
             </a>
           </div>
