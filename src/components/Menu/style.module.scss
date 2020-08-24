@@ -79,7 +79,7 @@
 
         .name,
         .descr {
-          display: flex;
+          display: block;
         }
       }
     }
@@ -88,7 +88,7 @@
       font-size: rem(26);
       font-weight: 700;
       color: $white;
-      white-space: wrap;
+      
       max-width: 90%;
       display: block;
     }
@@ -99,7 +99,9 @@
       line-height: rem(41);
       border-left: 1px solid $dark-gray-3;
       color: $gray-5;
-
+      white-space: wrap;
+      text-overflow: ellipsis;
+      overflow: hidden;
     }
   }
 }
