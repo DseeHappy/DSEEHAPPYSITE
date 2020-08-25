@@ -16,7 +16,7 @@ export default () => {
               <span role="img" aria-label="">
                 👉
               </span>{" "}
-              Sign up for early access soon!  <a href="https://app.dseehappy.com/"><del>Unlock access now</del> </a>
+              Sign up for early access soon!  <a href="https://authi.constructopedia.cloud/login?client_id=7pif3m89qrf025psas0mormtsr&response_type=code&scope=email+openid+phone+profile&redirect_uri=https://app.constructopedia.cloud"><del>Unlock access now</del> </a>
             </span>
           </div>
           <div className={style.promo__inner}>
