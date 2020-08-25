@@ -25,7 +25,7 @@ export default () => {
                   <div>
                     Copyright © 2020 DSEEHAPPY |{" "}
                     <a
-                      href="https://dseehappy.com/privacy-policy"
+                      href="https://constructopedia.com/privacy-policy"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -33,8 +33,8 @@ export default () => {
                     </a>
                   </div>
                   <div className="mb-1">
-                    <a href="mailto:dseehappy@gmail.com">
-                      dseehappy@gmail.com
+                    <a href="mailto:info@constructopedia.cloud">
+                      info@constructopedia.cloud
                     </a>
                   </div>
                 </div>
