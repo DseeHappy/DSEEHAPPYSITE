@@ -27,7 +27,7 @@ export default () => {
             <a href="#Contact_Us" rel="noopener noreferrer">
               Contact Us
             </a>
-            <a href="https://authi.constructopedia.cloud/signup?client_id=5limg616d2dfotejb7slte769&response_type=code&scope=email+openid+phone+profile&redirect_uri=https://app.constructopedia.cloud/map/" rel="noopener noreferrer">
+            <a href="https://auth.constructopedia.cloud/login?client_id=5limg616d2dfotejb7slte769&response_type=code&scope=email+openid+phone+profile&redirect_uri=https://app.constructopedia.cloud/auth/login/" rel="noopener noreferrer">
               LOGIN
             </a>
           </div>
